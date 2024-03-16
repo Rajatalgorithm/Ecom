@@ -209,7 +209,7 @@ small{
 
 /*-----------------------Footer -----------------------*/
 .footer{
-    background:#000; /*black;*/
+    background:black; /*black;*/
     color: #8a8a8a;
     font-size: 14px;
     padding:60px 0 20px;
@@ -566,6 +566,18 @@ form a{
   }
   
   
-  
+  .float-button {
+
+    position: fixed;
+    left: 0;
+    right: 45px;
+    bottom: 0;
+    
+   
+    border: none;
+    color: white;
+   
+    
+}
   
   
